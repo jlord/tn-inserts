@@ -15,3 +15,7 @@ Some people put Field Notes notebooks inside of the official TN passport size so
 ### Notes
 
 Dotted lines are folding lines, solid lines are cut lines.
+
+### Result!
+
+<img src="pocketfolders.gif" width="400" alt="gif of folders">
