@@ -2,7 +2,7 @@
 
 # Traveler's Notebook (Field Notes size) Pocket and Folder Inserts
 
-These are templates for creating pockets and folders that fit with a Traveler's Notebook made to fit Field Notes notebooks 📔 🖋
+These are templates for creating pockets and folders that fit with a [Traveler's Notebook](http://www.travelers-company.com) made to [fit Field Notes notebooks](https://www.instagram.com/p/BPn7TjYDLTL/?taken-by=jlord) 📔 🖋
 
 Only the `folder.png` fits on a standard Letter paper. The others you'll need to print on larger paper or on multiple sheets.
 
